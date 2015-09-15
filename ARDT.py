@@ -145,7 +145,7 @@ if __name__ == "__main__":
 
 	print c_y + "[?] " + c_e + " Target: '%s'" % target 
 	print c_y + "[?] " + c_e + " Request file: '%s'" % request_f 
-	print c_y + "[?] " + c_e + " Akamai hosts file: '%s'" % akamai_list
+	print c_y + "[?] " + c_e + " Akamai EdgeHosts file ('%s' IP's): '%s'" % ( len(akamai_ips), akamai_list)
 	print c_y + "[?] " + c_e + " Threads '%d'\n" % num_threads
  
 	x = raw_input(c_r + "[!] " + c_e + " This is about to perform a reflected DDoS attack with the above settings.\nAre you sure ? [Y/N] ")
