@@ -36,7 +36,7 @@ def banner():
 
 def usage():
 	banner()
-	print "Usage: %s -l [akamai_list] -t [victim_host] -r [request_file] -n [threads (default: 40)] "
+	print "Usage: %s -l [akamai_list] -t [victim_host] -r [request_file] -n [threads (default: 40)] " % sys.argv[0]
 	print ""
 	exit()
 
