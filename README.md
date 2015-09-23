@@ -4,4 +4,6 @@
 
 Attack the origin host behind the Akamai Edge hosts and DDoS protection offered by Akamai services.
 
-Using the 
+Using the included tool 'ARDT_Akamai_EdgeNode_Finder.py' you can find Akamai Edge Nodes to add to the list which the DDoS tool uses.
+
+
