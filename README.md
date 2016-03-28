@@ -1,4 +1,4 @@
-![ARDT](http://slimgr.com/images/2015/09/23/df03047928220cbabf448110abb719b7.png)
+![ARDT](http://i.imgur.com/IQycZsc.png)
 
 **Akamai Reflective DDoS Tool**
 
